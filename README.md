@@ -18,21 +18,20 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![SMOTE Oversampling](Resources/Images/smote_class.png)
 ##### Balanced Accuracy Score
 0.6419006844557233 &rarr; 64.2%
-</br>
+</br></br>
 ### Undersampling
 
-#### Cluster Centroids
 ##### Classification Report
 ![Cluster Centroids](Resources/Images/cluster_class.png)
 ##### Balanced Accuracy Score
 0.5451813715047837 &rarr; 54.5%
-</br>
+</br></br>
 ### Comination Over/Undersampling (SMOTEENN)
 ##### Classification Report
 ![SMOTEENN](Resources/Images/smoteenn_class.png)
 ##### Balanced Accuracy Score
 0.6550612907408608 &rarr; 65.5%
-</br>
+</br></br>
 ### Ensembles 
 
 #### Balanced Random Forest Classifier
@@ -40,7 +39,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Balanced Random Forest Classifier](Resources/Images/brfc_class.png)
 ##### Balanced Accuracy Score
 0.6830221521918328 &rarr; 68.3%
-</br>
+</br></br>
 #### Easy Ensemble AdaBoost Classifier
 ##### Classification Report
 ![Easy Ensemble AdaBoost Classifier](Resources/Images/eeac_class.png)
