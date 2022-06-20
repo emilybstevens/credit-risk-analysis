@@ -54,5 +54,5 @@ better (93.1%). However, even with a Balanced Accuracy Score of 93.1%, it should
 This is due to a low Precision score for the High Risk Classification. Given the current High Risk recall score (0.92), it might be possible to increase High Risk Precision Score without significantly reducing Recall. 
 Doing this will likely raise the model's F1 score, resulting in a more reliable model. </br></br>
 
-Recommendation: Utilize the Easy Ensemble AdaBoost Classifier (EEAC) model, with adjustments mentioned previously. As of the writing of this report, the EEAC model can be deployed for small-scale usage, but 
+**Recommendation:** Utilize the Easy Ensemble AdaBoost Classifier (EEAC) model, with adjustments mentioned previously. As of the writing of this report, the EEAC model can be deployed for small-scale usage, but 
 improvements will need to be made before the model can be used on a larger scale.  
