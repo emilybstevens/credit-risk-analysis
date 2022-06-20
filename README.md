@@ -12,7 +12,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Naive Random Oversampling](Resources/Images/naive_random_class.png)
 ##### Balanced Accuracy Score
 0.6631475238262834 &rarr; 66.3%
-</br>
+</br></br>
 #### SMOTE Oversampling
 ##### Classification Report
 ![SMOTE Oversampling](Resources/Images/smote_class.png)
