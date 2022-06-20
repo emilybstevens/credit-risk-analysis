@@ -1,10 +1,10 @@
 # credit-risk-analysis
 
 ## Overview
-The purpose of this analysis is well defined
+Utlizing machine learning to determine credit risk based on various factors related to previous loan applications. 
 
 ## Results
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
+
 ### Oversampling
 
 #### Naive Random Oversampling
